@@ -156,7 +156,7 @@ estrutura/
 
 As atividades iniciam a partir do diretório "estrutura", (cd estrutura)
 
-1- Quantas patas tem dentro de "estrutura"?
+1- Quantas pastas tem dentro de "estrutura"?
 
 2- Qual o nome do animal que começa com a letra P ?
 
