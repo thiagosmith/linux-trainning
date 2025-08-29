@@ -1,5 +1,5 @@
-# linux-trainning
-Linux Trainning
+# Linux Trainning
+Script básico para iniciantes em linux pratira comandos como cd, ls, grep, egrep, find e etc...
 
 # Modo de uso:
 
