@@ -1,5 +1,5 @@
 # Linux Trainning
-Script básico para iniciantes em linux pratira comandos como cd, ls, grep, egrep, find e etc...
+Script básico para iniciantes em linux praticar comandos no terminal Linux: cd, ls, grep, egrep, find e etc...
 
 # Modo de uso:
 
