@@ -152,5 +152,48 @@ estrutura/
 27 directories, 108 files
 
 ```
+# Exemplo de atividades
+
+As atividades iniciam a partir do diretório "estrutura", (cd estrutura)
+
+1- Quantas patas tem dentro de "estrutura"?
+
+2- Qual o nome do animal que começa com a letra P ?
+
+3- Qual nome do carro começa com a letra H ?
+
+4- Quais as pastas dentro de cybersecurity ?
+
+5- Qual o nome do professor de matemática que inicia com a letra S ?
+
+6- Qual o nome do professor de geografia que inicia com a letra S ?
+
+7- Qual o nome do professor de biologia que inicia com a letra L ?
+
+8- Qual o nome do professor de portugues que inicia com a letra B ?
+
+9- Qual o nome do peixe que começa com a letra D ?
+
+10- Quais as pastas dentro de red-team ?
+
+11- Quais os tipos de pentest ?
+
+12- Quais os standards utilizados pelo white team ?
+
+13- Quais os workshops realizados pelo purple team ?
+
+14- Quais os níveis de resposta são atendidos pelo blue team ?
+
+15- Qual peixe utiliza a extensão csv ? 
+
+16- Qual o ataque realizado pelo operador red team com extensão txt ?
+
+17- Qual carro tem a maior quantidade de letras ?
+
+18- Qual animal tem a menor quantidade de letras ?
+
+19- Quantas matérias temos na nossa escola ?
+
+20- Quantos professores trabalham na escola ?
 
 
